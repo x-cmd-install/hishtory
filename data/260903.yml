@@ -1,17 +1,19 @@
 about:
-  description: Your shell history: synced, queryable, and in context
+  description:
+  |
+    Your shell history: synced, queryable, and in context
   license: MIT
   homepage: https://hishtory.dev
   head: 95aa6b0
   archived: false
   latestVersion: v0.335
-  collectedAt: 2026-09-03T05:12:30Z
+  collectedAt: 2026-09-03T22:36:40Z
 timeline:
   created: 2022-01-11
   lastCommit: 2026-03-18
   lastRelease: 2025-02-07
 popularity:
-  star: 3115
+  star: 3117
   watcher: 13
   fork: 73
   release: 437
@@ -26,7 +28,7 @@ language:
   HTML: 1830
   VHDL: 604
   Dockerfile: 578
-totalLine: 753524
+totalBytes: 753524
 recent:
   last30d:
     since: 2026-08-04
