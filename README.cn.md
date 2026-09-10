@@ -4,13 +4,25 @@
 
 Your shell history: synced, queryable, and in context
 
-![hishtory](https://repo.x-cmd.io/hishtory.svg)
+![hishtory](https://repo.x-cmd.io/hishtory.svg?lang=zh)
 
 ## 安装
 
 ```sh
 x install hishtory
 ```
+
+## 代码规模
+
+合计: **16,204** 行代码（覆盖前 5 种语言、共 **72** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Go | 15,736 | 1,614 | 2,309 | 64 |
+| Python | 175 | 1 | 21 | 3 |
+| Html | 67 | 0 | 5 | 2 |
+| Yaml | 49 | 9 | 0 | 2 |
+| Makefile | 46 | 1 | 15 | 1 |
 
 ## 源代码
 
@@ -23,7 +35,6 @@ x install hishtory
 - **最新版本**: `v0.335` (2025-02-07)
 - **最近提交**: 2026-03-18
 - **Release 含资产**: 22 个
-- **发布时间**: 2025-02-07T23:14:27Z
 
 ## 流行度
 
@@ -38,20 +49,47 @@ x install hishtory
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 1 | 0 |
 | 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last180d | 2026-03-14 | 0 | 1 | 3 | 1 | 2 | 0 |
 | 360d | 2025-09-15 | 0 | 11 | 16 | 2 | 5 | 11 |
+| last720d | 2024-09-20 | 23 | 46 | 20 | 15 | 13 | 117 |
 
-## 代码规模
+## Release 资产
 
-合计: **16,204** 行代码（覆盖前 5 种语言、共 **72** 个文件）。
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [hishtory-darwin-amd64](https://github.com/ddworken/hishtory/releases/download/v0.335/hishtory-darwin-amd64) | 46.7 MiB | `native/darwin/x64` |
+| [hishtory-darwin-amd64-unsigned](https://github.com/ddworken/hishtory/releases/download/v0.335/hishtory-darwin-amd64-unsigned) | 46.3 MiB | `native/darwin/x64` |
+| [hishtory-darwin-amd64.intoto.jsonl](https://github.com/ddworken/hishtory/releases/download/v0.335/hishtory-darwin-amd64.intoto.jsonl) | 14.5 KiB | `native/darwin/x64` |
+| [hishtory-darwin-arm64](https://github.com/ddworken/hishtory/releases/download/v0.335/hishtory-darwin-arm64) | 45.0 MiB | `native/darwin/arm64` |
+| [hishtory-darwin-arm64-unsigned](https://github.com/ddworken/hishtory/releases/download/v0.335/hishtory-darwin-arm64-unsigned) | 45.0 MiB | `native/darwin/arm64` |
+| [hishtory-darwin-arm64.intoto.jsonl](https://github.com/ddworken/hishtory/releases/download/v0.335/hishtory-darwin-arm64.intoto.jsonl) | 14.5 KiB | `native/darwin/arm64` |
+| [hishtory-freebsd-amd64](https://github.com/ddworken/hishtory/releases/download/v0.335/hishtory-freebsd-amd64) | 45.5 MiB | `other` |
+| [hishtory-freebsd-amd64.intoto.jsonl](https://github.com/ddworken/hishtory/releases/download/v0.335/hishtory-freebsd-amd64.intoto.jsonl) | 14.5 KiB | `other` |
+| [hishtory-linux-amd64](https://github.com/ddworken/hishtory/releases/download/v0.335/hishtory-linux-amd64) | 45.7 MiB | `native/linux/x64` |
+| [hishtory-linux-amd64.intoto.jsonl](https://github.com/ddworken/hishtory/releases/download/v0.335/hishtory-linux-amd64.intoto.jsonl) | 14.5 KiB | `native/linux/x64` |
+| [hishtory-linux-arm](https://github.com/ddworken/hishtory/releases/download/v0.335/hishtory-linux-arm) | 42.4 MiB | `native/linux/arm` |
+| [hishtory-linux-arm.intoto.jsonl](https://github.com/ddworken/hishtory/releases/download/v0.335/hishtory-linux-arm.intoto.jsonl) | 14.5 KiB | `native/linux/arm` |
+| [hishtory-linux-arm64](https://github.com/ddworken/hishtory/releases/download/v0.335/hishtory-linux-arm64) | 44.0 MiB | `native/linux/arm64` |
+| [hishtory-linux-arm64.intoto.jsonl](https://github.com/ddworken/hishtory/releases/download/v0.335/hishtory-linux-arm64.intoto.jsonl) | 14.5 KiB | `native/linux/arm64` |
+| [hishtory-netbsd-amd64](https://github.com/ddworken/hishtory/releases/download/v0.335/hishtory-netbsd-amd64) | 45.3 MiB | `other` |
+| [hishtory-netbsd-amd64.intoto.jsonl](https://github.com/ddworken/hishtory/releases/download/v0.335/hishtory-netbsd-amd64.intoto.jsonl) | 14.5 KiB | `other` |
+| [hishtory-release-validation-completed](https://github.com/ddworken/hishtory/releases/download/v0.335/hishtory-release-validation-completed) | 5 B | `other` |
+| [hishtory-server-darwin-amd64](https://github.com/ddworken/hishtory/releases/download/v0.335/hishtory-server-darwin-amd64) | 66.4 MiB | `native/darwin/x64` |
+| [hishtory-server-darwin-arm64](https://github.com/ddworken/hishtory/releases/download/v0.335/hishtory-server-darwin-arm64) | 64.6 MiB | `native/darwin/arm64` |
+| [hishtory-server-linux-amd64](https://github.com/ddworken/hishtory/releases/download/v0.335/hishtory-server-linux-amd64) | 68.6 MiB | `native/linux/x64` |
+| [hishtory-server-linux-arm](https://github.com/ddworken/hishtory/releases/download/v0.335/hishtory-server-linux-arm) | 60.6 MiB | `native/linux/arm` |
+| [hishtory-server-linux-arm64](https://github.com/ddworken/hishtory/releases/download/v0.335/hishtory-server-linux-arm64) | 63.5 MiB | `native/linux/arm64` |
 
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Go | 15,736 | 1,614 | 2,309 | 64 |
-| Python | 175 | 1 | 21 | 3 |
-| Html | 67 | 0 | 5 | 2 |
-| Yaml | 49 | 9 | 0 | 2 |
-| Makefile | 46 | 1 | 15 | 1 |
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/hishtory) 上共有 **14** 个发行版报告此项目。**11** 个 ✅ 已是最新上游版本，**2** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Homebrew | `0.335` | ✅ latest |
+| Nix unstable | `0.335` | ✅ latest |
 
 ## 改进这些数据
 
@@ -62,4 +100,4 @@ hishtory 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:17:43Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T20:54:02Z._
