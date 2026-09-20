@@ -4,7 +4,7 @@
 
 Your shell history: synced, queryable, and in context
 
-![hishtory](https://repo.x-cmd.io/hishtory.svg)
+[![x-cmd/install — hishtory Code Quality Monitoring Repo Card](https://repo.x-cmd.io/hishtory.svg)](https://x-cmd.com/install/hishtory)
 
 ## Install
 
@@ -48,12 +48,12 @@ Total: **16,204** lines of code across **72** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last60d | 2026-07-20 | 0 | 0 | 0 | 0 | 1 | 0 |
-| 90d | 2026-06-20 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last180d | 2026-03-22 | 0 | 0 | 3 | 1 | 2 | 0 |
-| 360d | 2025-09-23 | 0 | 11 | 16 | 2 | 5 | 11 |
-| last720d | 2024-09-28 | 23 | 46 | 20 | 14 | 13 | 117 |
+| 30d | 2026-08-21 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-22 | 0 | 0 | 0 | 0 | 1 | 0 |
+| 90d | 2026-06-22 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last180d | 2026-03-24 | 0 | 0 | 3 | 1 | 2 | 0 |
+| 360d | 2025-09-25 | 0 | 11 | 16 | 2 | 5 | 11 |
+| last720d | 2024-09-30 | 23 | 46 | 20 | 14 | 13 | 117 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for hishtory lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:22:01Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:23:51Z._
