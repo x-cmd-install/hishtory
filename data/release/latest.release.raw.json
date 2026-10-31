@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 48960912,
       "digest": null,
-      "download_count": 8767489,
+      "download_count": 8784858,
       "created_at": "2025-02-07T23:20:24Z",
       "updated_at": "2025-02-07T23:20:26Z",
       "browser_download_url": "https://github.com/ddworken/hishtory/releases/download/v0.335/hishtory-darwin-amd64"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 48563072,
       "digest": null,
-      "download_count": 8766346,
+      "download_count": 8783712,
       "created_at": "2025-02-07T23:20:23Z",
       "updated_at": "2025-02-07T23:20:26Z",
       "browser_download_url": "https://github.com/ddworken/hishtory/releases/download/v0.335/hishtory-darwin-amd64-unsigned"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 14870,
       "digest": null,
-      "download_count": 8764268,
+      "download_count": 8781630,
       "created_at": "2025-02-07T23:18:43Z",
       "updated_at": "2025-02-07T23:18:43Z",
       "browser_download_url": "https://github.com/ddworken/hishtory/releases/download/v0.335/hishtory-darwin-amd64.intoto.jsonl"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 47197488,
       "digest": null,
-      "download_count": 8766213,
+      "download_count": 8783569,
       "created_at": "2025-02-07T23:20:23Z",
       "updated_at": "2025-02-07T23:20:26Z",
       "browser_download_url": "https://github.com/ddworken/hishtory/releases/download/v0.335/hishtory-darwin-arm64"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 47179186,
       "digest": null,
-      "download_count": 8763277,
+      "download_count": 8780626,
       "created_at": "2025-02-07T23:20:23Z",
       "updated_at": "2025-02-07T23:20:26Z",
       "browser_download_url": "https://github.com/ddworken/hishtory/releases/download/v0.335/hishtory-darwin-arm64-unsigned"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 14870,
       "digest": null,
-      "download_count": 8761471,
+      "download_count": 8778816,
       "created_at": "2025-02-07T23:18:26Z",
       "updated_at": "2025-02-07T23:18:26Z",
       "browser_download_url": "https://github.com/ddworken/hishtory/releases/download/v0.335/hishtory-darwin-arm64.intoto.jsonl"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 47868725,
       "digest": null,
-      "download_count": 8812676,
+      "download_count": 8830176,
       "created_at": "2025-02-07T23:18:46Z",
       "updated_at": "2025-02-07T23:18:47Z",
       "browser_download_url": "https://github.com/ddworken/hishtory/releases/download/v0.335/hishtory-linux-amd64"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 14866,
       "digest": null,
-      "download_count": 8789553,
+      "download_count": 8807009,
       "created_at": "2025-02-07T23:18:46Z",
       "updated_at": "2025-02-07T23:18:46Z",
       "browser_download_url": "https://github.com/ddworken/hishtory/releases/download/v0.335/hishtory-linux-amd64.intoto.jsonl"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 44486197,
       "digest": null,
-      "download_count": 8639012,
+      "download_count": 8656114,
       "created_at": "2025-02-07T23:18:59Z",
       "updated_at": "2025-02-07T23:19:01Z",
       "browser_download_url": "https://github.com/ddworken/hishtory/releases/download/v0.335/hishtory-linux-arm"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 14858,
       "digest": null,
-      "download_count": 8637111,
+      "download_count": 8654209,
       "created_at": "2025-02-07T23:18:59Z",
       "updated_at": "2025-02-07T23:18:59Z",
       "browser_download_url": "https://github.com/ddworken/hishtory/releases/download/v0.335/hishtory-linux-arm.intoto.jsonl"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 46165805,
       "digest": null,
-      "download_count": 8732014,
+      "download_count": 8749262,
       "created_at": "2025-02-07T23:18:52Z",
       "updated_at": "2025-02-07T23:18:54Z",
       "browser_download_url": "https://github.com/ddworken/hishtory/releases/download/v0.335/hishtory-linux-arm64"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 14866,
       "digest": null,
-      "download_count": 8730571,
+      "download_count": 8747815,
       "created_at": "2025-02-07T23:18:52Z",
       "updated_at": "2025-02-07T23:18:52Z",
       "browser_download_url": "https://github.com/ddworken/hishtory/releases/download/v0.335/hishtory-linux-arm64.intoto.jsonl"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 14870,
       "digest": null,
-      "download_count": 24,
+      "download_count": 26,
       "created_at": "2025-02-07T23:18:41Z",
       "updated_at": "2025-02-07T23:18:41Z",
       "browser_download_url": "https://github.com/ddworken/hishtory/releases/download/v0.335/hishtory-netbsd-amd64.intoto.jsonl"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 5,
       "digest": null,
-      "download_count": 8554889,
+      "download_count": 8571845,
       "created_at": "2025-02-07T23:22:59Z",
       "updated_at": "2025-02-07T23:22:59Z",
       "browser_download_url": "https://github.com/ddworken/hishtory/releases/download/v0.335/hishtory-release-validation-completed"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 67787906,
       "digest": null,
-      "download_count": 47,
+      "download_count": 48,
       "created_at": "2025-02-07T23:15:41Z",
       "updated_at": "2025-02-07T23:15:43Z",
       "browser_download_url": "https://github.com/ddworken/hishtory/releases/download/v0.335/hishtory-server-darwin-arm64"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 66596207,
       "digest": null,
-      "download_count": 62,
+      "download_count": 63,
       "created_at": "2025-02-07T23:15:45Z",
       "updated_at": "2025-02-07T23:15:47Z",
       "browser_download_url": "https://github.com/ddworken/hishtory/releases/download/v0.335/hishtory-server-linux-arm64"
