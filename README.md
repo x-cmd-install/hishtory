@@ -48,12 +48,12 @@ Total: **16,204** lines of code across **72** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-25 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 90d | 2026-08-26 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last180d | 2026-05-28 | 0 | 0 | 1 | 0 | 1 | 0 |
-| 360d | 2025-11-29 | 0 | 2 | 16 | 2 | 4 | 0 |
-| last720d | 2024-12-04 | 17 | 39 | 21 | 10 | 13 | 93 |
+| 30d | 2026-10-26 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-26 | 0 | 0 | 1 | 0 | 0 | 0 |
+| 90d | 2026-08-27 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last180d | 2026-05-29 | 0 | 0 | 1 | 0 | 1 | 0 |
+| 360d | 2025-11-30 | 0 | 1 | 15 | 2 | 4 | 0 |
+| last720d | 2024-12-05 | 17 | 39 | 21 | 10 | 13 | 93 |
 
 ## Release assets
 
@@ -82,15 +82,6 @@ Total: **16,204** lines of code across **72** files in the top 5 languages.
 | [hishtory-server-linux-arm](https://github.com/ddworken/hishtory/releases/download/v0.335/hishtory-server-linux-arm) | 60.6 MiB | `native/linux/arm` |
 | [hishtory-server-linux-arm64](https://github.com/ddworken/hishtory/releases/download/v0.335/hishtory-server-linux-arm64) | 63.5 MiB | `native/linux/arm64` |
 
-## Distribution status
-
-Reported by **14** distros on [repology.org](https://repology.org/project/hishtory). **11** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `0.335` | ✅ latest |
-| Nix unstable | `0.335` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for hishtory lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `hishtory` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -100,4 +91,4 @@ Install metadata for hishtory lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T10:25:09Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T09:58:51Z._
